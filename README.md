@@ -121,7 +121,7 @@ STEP 5.2 - USING GSTREAMER RTSP SERVER - INSTALL RPICAMSRC and GST-RTSP-SERVER (
 ```
 
 STEP 6 - EDIT CONFIG  
-  *  Edit ``` rposConf.json ``` if you want to
+  *  Edit ``` rposConfig.json ``` if you want to
   *  Add an ONVIF Username and Password
   *  Change the TCP Port for the Web Server and the ONVIF Service
   *  Change the RTSP Port
